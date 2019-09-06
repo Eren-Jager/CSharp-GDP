@@ -1,0 +1,11 @@
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\obj\Debug\netcoreapp2.2\CSharp-GDP.csprojAssemblyReference.cache
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\obj\Debug\netcoreapp2.2\CSharp-GDP.csproj.CoreCompileInputs.cache
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\obj\Debug\netcoreapp2.2\CSharp-GDP.AssemblyInfoInputs.cache
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\obj\Debug\netcoreapp2.2\CSharp-GDP.AssemblyInfo.cs
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\bin\Debug\netcoreapp2.2\CSharp-GDP.deps.json
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\bin\Debug\netcoreapp2.2\CSharp-GDP.runtimeconfig.json
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\bin\Debug\netcoreapp2.2\CSharp-GDP.runtimeconfig.dev.json
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\bin\Debug\netcoreapp2.2\CSharp-GDP.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\bin\Debug\netcoreapp2.2\CSharp-GDP.pdb
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\obj\Debug\netcoreapp2.2\CSharp-GDP.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\CSharp-GDP\obj\Debug\netcoreapp2.2\CSharp-GDP.pdb

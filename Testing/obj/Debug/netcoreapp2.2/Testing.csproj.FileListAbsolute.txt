@@ -1,0 +1,17 @@
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\Testing.deps.json
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\Testing.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\CSharp-GDP.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\CSharp-GDP.pdb
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.csprojAssemblyReference.cache
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CoreCompileInputs.cache
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfoInputs.cache
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfo.cs
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CopyComplete
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.json
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.dev.json
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\bin\Debug\netcoreapp2.2\Testing.pdb
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.dll
+C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Testing\obj\Debug\netcoreapp2.2\Testing.pdb
