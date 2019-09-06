@@ -10,7 +10,7 @@ namespace CSharp_GDP1
      
     public class Program
     {
-        public static void Main(string[] args) { }
+        public static void Main(string[] args) { GDP_Calc(); }
         private static Dictionary<string, double> PopulateDict()
         {
             return new Dictionary<string, double>()
@@ -31,8 +31,8 @@ namespace CSharp_GDP1
             result.Add("Africa", PopulateDict());
             int i;
             double j, k;
-            string[] data = File.ReadAllLines(@"C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\datafile.csv");
-            string[] temp = File.ReadAllLines(@"C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\country.csv");
+            string[] data = File.ReadAllLines("../../../../datafile.csv");
+            string[] temp = File.ReadAllLines("../../../../country.csv");
             string[] compdata;
             for (i = 1; i < temp.Length; i++)
             {
@@ -51,7 +51,7 @@ namespace CSharp_GDP1
 
             }
             string output = JsonConvert.SerializeObject(result, Formatting.Indented);
-            System.IO.File.WriteAllText(@"C:\Users\cgi\Desktop\StackRoute\C#\CSharp-GDP\Output.json", output);
+            System.IO.File.WriteAllText("../../../../Output.json", output);
         }
     }
 }
