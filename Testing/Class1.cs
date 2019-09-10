@@ -16,13 +16,15 @@ namespace XUnitTestGDP
         {
             Program.GDP_Calc();
             bool right = false;
-            if (File.Exists("../../../expected-output.json"))
+            if (File.Exists("../../../../Output.json"))
             {
-                JObject xpctJSON = JObject.Parse("../../../expected-output.json");
-                JObject actJSON = JObject.Parse("../../../Output.json");
+                JObject xpctJSON = JObject.Parse(File.ReadAllText(@"../../../../expected-output.json"));
+                JObject actJSON = JObject.Parse(File.ReadAllText(@"../../../../Output.json"));
                 right = JToken.DeepEquals(xpctJSON, actJSON);
                 Assert.True(right);
             }
+            else
+                throw new FileNotFoundException(string.Format("Cannot find the file Output.json"));
         }
         [Fact]
         public void Test2()
